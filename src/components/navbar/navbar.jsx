@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg px-2 py-4">
           <div class="container-fluid">
             <span class="navbar-brand" >
-              <Link to="/">
+              <Link to="/my-portfolio/">
                 Caleb.
               </Link>
             </span>
