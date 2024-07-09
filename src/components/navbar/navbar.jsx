@@ -5,7 +5,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg px-2 py-4">
           <div class="container-fluid">
             <span class="navbar-brand" >
-              <Link to="/my-portfolio/">
+              <Link to="/caleb-portfolio/">
                 Caleb.
               </Link>
             </span>
@@ -33,9 +33,9 @@ const Navbar = () => {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <Link class="nav-link" to="resume">
+                  <a class="nav-link" target="_blank" href="/caleb-portfolio/">
                     Resume
-                  </Link>
+                  </a>
                 </li>
               </ul>
             </div>
